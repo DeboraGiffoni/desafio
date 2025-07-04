@@ -1,1 +1,2 @@
-console.log("Olá")
+let nome = "Krypto"
+console.log(nome)
